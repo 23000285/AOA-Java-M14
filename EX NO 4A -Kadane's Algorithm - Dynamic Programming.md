@@ -1,6 +1,6 @@
 # EX 4A Kadane's Algorithm - Dynamic Programming
 
-## DATE: 4-11-2025
+## DATE: 25-10-2025
 
 ## AIM:
 
