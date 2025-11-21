@@ -1,6 +1,6 @@
 # EX 4B Frog Jump - Dynamic Programming
 
-## DATE: 10-11-2025
+## DATE: 27-10-2025
 
 ## AIM:
 
@@ -25,9 +25,8 @@ The solution must be implemented using **Dynamic Programming**.
 
 ## Program:
 
-```
+```java
 /*
-Program to implement Reverse a String
 Developed by: VENKATANATHAN P R
 Register Number: 212223240173
 */
