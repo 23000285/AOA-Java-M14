@@ -1,6 +1,6 @@
 # EX 4A Kadane's Algorithm - Dynamic Programming
 
-## DATE: 25-10-2025
+## DATE: 10-10-2025
 
 ## AIM:
 
@@ -31,7 +31,7 @@ The buildings either generate or consume energy. Since the grid is circular, the
 
 ```java
 /*
-Program to implement Reverse a String
+Kadane's Algorithm
 Developed by: VENKATANATHAN P R
 Register Number: 212223240173
 */
