@@ -1,6 +1,6 @@
 # EX 4C Coin Change Problem - Dynamic Programming
 
-## DATE:
+## DATE: 19-10-2025
 
 ## AIM:
 
@@ -30,7 +30,7 @@ If the given amount cannot be formed using the available denominations, return *
 
 ```java
 /*
-Program to implement Reverse a String
+Coin Change using Dynamic Programming
 Developed by: VENKATANATHAN P R
 Register Number: 212223240173
 */
